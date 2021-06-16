@@ -14,5 +14,6 @@ public class Toping extends Menu {
         setNama_menu(nama_toping);
         setHarga(harga);
         setKategori("Toping");
+        
     }
 }
