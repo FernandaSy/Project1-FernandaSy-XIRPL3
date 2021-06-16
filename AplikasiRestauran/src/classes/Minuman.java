@@ -15,5 +15,5 @@ public class Minuman extends Menu{
         setHarga(harga);
         setKategori("Minuman");
     }
-    
+   
 }
