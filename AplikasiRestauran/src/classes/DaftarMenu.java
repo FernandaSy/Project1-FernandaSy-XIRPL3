@@ -29,6 +29,7 @@ public class DaftarMenu {
             Menu m = daftarMenu.get(i);
             if (m.getKategori().equals(kategori)){
                 System.out.println((i+1) + ". " + m.getNama_menu() + "\t" + m.getHarga());
+            
             }
         }
     }
