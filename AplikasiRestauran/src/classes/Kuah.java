@@ -14,5 +14,6 @@ public class Kuah extends Menu{
         setNama_menu(nama_kuah);
         setHarga(0);
         setKategori("Kuah");
+        
     }
 }
