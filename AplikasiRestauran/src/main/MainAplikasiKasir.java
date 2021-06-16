@@ -43,5 +43,6 @@ public class MainAplikasiKasir {
         daftarMenu.tambahMenu(new Minuman("Vietnam Drip", 14000));
         
         daftarMenu.tampilDaftarMenu();
+        
     }
 }
