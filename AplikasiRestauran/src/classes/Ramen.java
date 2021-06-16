@@ -14,5 +14,6 @@ public class Ramen extends Menu{
         setNama_menu(nama_ramen);
         setHarga(harga);
         setKategori("Ramen");
+        
     }
 }
